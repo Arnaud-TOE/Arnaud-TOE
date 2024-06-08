@@ -12,7 +12,7 @@
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arnaud ulrich toe" target="blank"><img align="center" src="https://static.vecteezy.com/ti/vecteur-libre/p1/18910721-vecteur-de-logo-linkedin-symbole-linkedin-vecteur-gratuit-d-icone-linkedin-gratuit-vectoriel.jpg" alt="arnaud ulrich toe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Arnaud ulrich toe" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" alt="arnaud ulrich toe" height="30" width="40" /></a>
 <a href="https://fb.com/arnaud ulrich toe" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnaud ulrich toe " height="30" width="40" /></a>
 </p>
 
