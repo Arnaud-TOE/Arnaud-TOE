@@ -4,7 +4,7 @@
 
 - 🔭 Je suis actuellement à la recherche d'un stage en **Machine Learning ou Cybersécurité ou développement d'applications et de sites Web**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Arnaud-TOE](https:/ /github.com/Arnaud-TOE)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Arnaud-TOE]
 
 - 📫 Comment me joindre **ulrichtoe2@gmail.com ou toe.arn.fst@uhp.ac.ma**
 
